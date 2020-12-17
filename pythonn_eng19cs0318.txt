@@ -1,0 +1,27 @@
+5a)
+for the input
+1 
+3 2
+4 4 
+9 9
+ there will be no key in data one as the nummber deosnt have a pair 
+then the pair (k,v2)will be not be added to data 1
+
+
+5b)if k in data :
+v1 = data1[k]
+if v1!=v23
+	display[k]==[v1,v2]
+	del data[k]
+else: 
+	data1[k]=v2
+
+5c) def uniqueupdate(1,3)
+    
+
+if __name__ == "__main__":
+    test_uniqueUpdate()
+    print("Everything passed")
+
+
+it the test is suceessful it will the items have passed the test or else it will we print it has failed
